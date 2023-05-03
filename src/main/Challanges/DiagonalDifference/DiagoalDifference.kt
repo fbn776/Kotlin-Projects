@@ -39,4 +39,5 @@ fun main() {
         arrayOf(21, 2, 23),
     )
     println(diagonalDifference(arr))
+
 }
